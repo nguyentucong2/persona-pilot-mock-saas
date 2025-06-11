@@ -1,6 +1,13 @@
 import heroImg from "../assets/persona-hero-img.png";
 import FlippingFeatureCard from "../components/FlippingFeatureCard";
 import CtaSection from "../components/CtaSection";
+import realisticPersonaImg from '../assets/realistic-persona.png'
+import simulationImg from '../assets/simulation.png'
+import collaborationImg from '../assets/collaboration.png'
+import interactionImg from '../assets/interaction.png'
+import pluginImg from '../assets/plugin.png'
+import apiImg from '../assets/api.png'
+
 
 export default function Home() {
     return (
@@ -22,32 +29,32 @@ export default function Home() {
                     <FlippingFeatureCard
                         front="Generate Realistic Personas"
                         back="Based on your product type, industry, and target audience — craft lifelike user personas in seconds."
-                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/realistic-persona.png" 
+                        frontImg={realisticPersonaImg}
                     />
                     <FlippingFeatureCard
                         front="Simulate Real User Behavior"
                         back="Predict how users will interact with your product, identifying friction points and drop-offs."
-                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/simulation.png" 
+                        frontImg={simulationImg} 
                     />
                     <FlippingFeatureCard
                         front="Collaborate with Your Team"
                         back="Share personas and simulations to align product decisions around actual user needs."
-                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/collaboration.png" 
+                        frontImg={collaborationImg}
                     />
                     <FlippingFeatureCard
                         front="Validate UX Across Personas"
                         back="See how different user types interact with different versions of your product."
-                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/interaction.png" 
+                        frontImg={interactionImg}
                     />
                     <FlippingFeatureCard
                         front="Design Faster with Plugins"
                         back="Integrate directly into Figma and Webflow to streamline your design workflow."
-                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/plugin.png" 
+                        frontImg={pluginImg}
                     />
                     <FlippingFeatureCard
                         front="API Access for Custom Models"
                         back="Use our API to create custom persona models tailored to your specific needs."
-                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/api.png" 
+                        frontImg={apiImg}
                     />
                 </div>
             </section>
