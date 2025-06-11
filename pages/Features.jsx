@@ -29,19 +29,19 @@ export default function Features() {
                 back="Our AI-powered tools rapidly generate realistic personas and simulate user behaviors, 
                 giving you actionable insights in seconds. No more waiting weeks for manual research—make informed decisions 
                 faster and with greater confidence"
-                frontImg="../assets/realistic-persona.png" 
+                frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/realistic-persona.png" 
             />
             <FlippingFeatureCard
                 front="Scale and Streamline Your Workflow"
                 back="Automate time-consuming tasks like persona creation, scenario testing, and behavioral analysis. This efficiency lets you handle larger projects, 
                 test more ideas, and focus your energy on strategic design and innovation, not repetitive busywork"
-                frontImg="../assets/simulation.png" 
+                frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/simulation.png" 
             />
             <FlippingFeatureCard
                 front="Build Products Users Truly Love"
                 back="By integrating data-driven personas and simulations into your workflow, you ensure every decision is grounded in real user needs. 
                 This leads to more personalized, effective products and a better overall UX — giving you a true competitive edge."
-                frontImg="../assets/collaboration.png" 
+                frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/collaboration.png" 
             />
         </div> 
       </div>

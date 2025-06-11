@@ -22,32 +22,32 @@ export default function Home() {
                     <FlippingFeatureCard
                         front="Generate Realistic Personas"
                         back="Based on your product type, industry, and target audience — craft lifelike user personas in seconds."
-                        frontImg="../assets/realistic-persona.png" 
+                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/realistic-persona.png" 
                     />
                     <FlippingFeatureCard
                         front="Simulate Real User Behavior"
                         back="Predict how users will interact with your product, identifying friction points and drop-offs."
-                        frontImg="../assets/simulation.png" 
+                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/simulation.png" 
                     />
                     <FlippingFeatureCard
                         front="Collaborate with Your Team"
                         back="Share personas and simulations to align product decisions around actual user needs."
-                        frontImg="../assets/collaboration.png" 
+                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/collaboration.png" 
                     />
                     <FlippingFeatureCard
                         front="Validate UX Across Personas"
                         back="See how different user types interact with different versions of your product."
-                        frontImg="../assets/interaction.png" 
+                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/interaction.png" 
                     />
                     <FlippingFeatureCard
                         front="Design Faster with Plugins"
                         back="Integrate directly into Figma and Webflow to streamline your design workflow."
-                        frontImg="../assets/plugin.png" 
+                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/plugin.png" 
                     />
                     <FlippingFeatureCard
                         front="API Access for Custom Models"
                         back="Use our API to create custom persona models tailored to your specific needs."
-                        frontImg="../assets/api.png" 
+                        frontImg="/Users/shubhisri/Downloads/frontend/saas_app_template_clone/assets/api.png" 
                     />
                 </div>
             </section>
