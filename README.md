@@ -1,6 +1,6 @@
 A Work in Progress Mock SaaS website concept for AI powered user persona generation.
 TBD:
-- Fixing asset visibility 
+
 - Adding login, signup and authentication flows
 - Styling fixes
 - Message form submission
